@@ -1,3 +1,2 @@
-
-#!/bin/bashs
-#pwd
+#!/bin/bash
+ls
